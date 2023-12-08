@@ -1,0 +1,10 @@
+SDLC(SOFTWARE DEVELOPMENT LIFE CYCLE)
+STLC(SOFTWARE TESTING LIFE CYCLE)
+WATERFALLS(Project Planning,Requirement,Analysis,Design,coding,Testing,Deploy)
+Agile methodology(Plan,Design,Develop,Test,Deploy,Review
+V-Model(Requirement Analysis-Acceptance Testing,System Design-System Testing,Architecture Design-Integration Testing,Module Design-Unit Testing,Coding)
+Sprint
+Scrum Meeting
+White Box
+Black Box
+Input Error(valid userid and password
